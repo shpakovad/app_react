@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/app_react/static/css/main.3c7c1d83.chunk.css",
-    "main.js": "/app_react/static/js/main.1987000b.chunk.js",
-    "main.js.map": "/app_react/static/js/main.1987000b.chunk.js.map",
+    "main.js": "/app_react/static/js/main.fb260eb2.chunk.js",
+    "main.js.map": "/app_react/static/js/main.fb260eb2.chunk.js.map",
     "runtime-main.js": "/app_react/static/js/runtime-main.49e88298.js",
     "runtime-main.js.map": "/app_react/static/js/runtime-main.49e88298.js.map",
-    "static/js/2.fee87ca3.chunk.js": "/app_react/static/js/2.fee87ca3.chunk.js",
-    "static/js/2.fee87ca3.chunk.js.map": "/app_react/static/js/2.fee87ca3.chunk.js.map",
+    "static/js/2.b1c7f70c.chunk.js": "/app_react/static/js/2.b1c7f70c.chunk.js",
+    "static/js/2.b1c7f70c.chunk.js.map": "/app_react/static/js/2.b1c7f70c.chunk.js.map",
     "index.html": "/app_react/index.html",
-    "precache-manifest.778c53603808bc9e6ea89d5fe244b42d.js": "/app_react/precache-manifest.778c53603808bc9e6ea89d5fe244b42d.js",
+    "precache-manifest.9370b227e5f4b312170fc517bdab5b7d.js": "/app_react/precache-manifest.9370b227e5f4b312170fc517bdab5b7d.js",
     "service-worker.js": "/app_react/service-worker.js",
     "static/css/main.3c7c1d83.chunk.css.map": "/app_react/static/css/main.3c7c1d83.chunk.css.map",
-    "static/js/2.fee87ca3.chunk.js.LICENSE.txt": "/app_react/static/js/2.fee87ca3.chunk.js.LICENSE.txt",
+    "static/js/2.b1c7f70c.chunk.js.LICENSE.txt": "/app_react/static/js/2.b1c7f70c.chunk.js.LICENSE.txt",
     "static/media/checkbox.svg": "/app_react/static/media/checkbox.e0eb24a3.svg",
     "static/media/earth.svg": "/app_react/static/media/earth.3e6861dc.svg",
     "static/media/earth_substrate.svg": "/app_react/static/media/earth_substrate.bca7a470.svg",
@@ -46,8 +46,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.49e88298.js",
-    "static/js/2.fee87ca3.chunk.js",
+    "static/js/2.b1c7f70c.chunk.js",
     "static/css/main.3c7c1d83.chunk.css",
-    "static/js/main.1987000b.chunk.js"
+    "static/js/main.fb260eb2.chunk.js"
   ]
 }

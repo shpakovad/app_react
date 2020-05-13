@@ -1,0 +1,102 @@
+.job, .familiarity, .charity {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    line-height: 115.19%;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.job, .familiarity, .charity {
+    position: absolute;
+    bottom: 37px;
+}
+
+.job {
+    width: 98px;
+    height: 18px;
+    left: 16%;
+}
+
+.familiarity {
+    width: 180px;
+    height: 18px;
+    left: 464px;
+}
+
+.charity {
+    width: 163px;
+    height: 18px;
+    left: 691px;
+}
+
+.master_card, .visa, .pay_pal {
+    position: absolute;
+    bottom: 30px;
+}
+
+.master_card {
+    right: 797px;
+}
+
+.visa {
+    right: 731px;
+}
+
+.pay_pal {
+    right: 630px
+}
+
+.email, .callBtn span {
+    font-family: 'Open Sans', sans-serif;
+    color: #FFFFFF;
+}
+
+.email {
+    position: absolute;
+    bottom: 36px;
+    right: 306px;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: 0.015em;
+    width: 149px;
+    height: 22px;
+}
+
+.callBtn {
+    position: absolute;
+    top: 46px;
+    right: 306px;
+    width: 164px;
+    height: 40px;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    box-sizing: border-box;
+    border-radius: 3px;
+    background: #08101B;
+}
+
+.callBtn span {
+    font-size: 15px;
+    line-height: 20px;
+    border-radius: 3px;
+}
+
+.callBtn:hover {
+    box-shadow: 0 0 17px rgba(249, 249, 249, 0.5);
+}
+
+.phone {
+    position: absolute;
+    width: 165px;
+    height: 20px;
+    top: 101px;
+    right: 294px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: 0.015em;
+    color: #FFFFFF;
+}
+
+.job:hover, .familiarity:hover, .charity:hover {
+    text-decoration: underline;
+}

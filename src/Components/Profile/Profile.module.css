@@ -1,0 +1,49 @@
+
+.wrapper{
+    background: black;
+    height: 100%;
+    width: 1920px;
+}
+
+.wrapperProfile{
+    background-image: url(../assets/images/Profile/wrapper-planeta-zemlja.jpg);
+    width: 100%;
+    height: 70%;
+    background-size: contain;
+    position: absolute;
+    background-repeat: no-repeat;
+    top: 1000px;
+}
+.userInfo{
+    width: 63%;
+    height: 800px;
+    left: 16%;
+    position: absolute;
+    top: 300px;
+}
+.userPhoto{
+    margin-top: 30px;
+    border-radius: 5px;
+    float: left;
+    margin-right: 60px;
+}
+.userData span {
+    color: white;
+    padding-bottom: 20px;
+    font-size: 30px;
+}
+.userData{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+}
+.planet_1{
+    position: absolute;
+    right: 90px;
+    top: 700px;
+}
+.planet_2{
+    position: absolute;
+    left: 0px;
+    top: 2300px;
+}

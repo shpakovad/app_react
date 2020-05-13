@@ -1,0 +1,141 @@
+.wrapper, .substrate, .titleWrapper, .title, .explanation, .lineReview,
+.wrapperReview, .photo_1, .name, .relocation {
+    position: absolute;
+}
+
+.wrapper {
+    height: 730px;
+    top: 1228px;
+}
+
+.substrate {
+    width: 1920px;
+    height: 730px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.titleWrapper {
+    width: 465px;
+    height: 118px;
+    top: 69px;
+    left: 16%;
+}
+
+.title, .explanation {
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #FFFFFF;
+}
+
+.title {
+    width: 374px;
+    height: 44px;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 145%;
+    border-radius: 3px;
+    margin-bottom: 25px;
+}
+
+.explanation {
+    width: 465px;
+    height: 24px;
+    top: 69px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 120.68%;
+}
+
+.lineReview {
+    width: 100px;
+    height: 0px;
+    left: 16%;
+    top: 187px;
+    border: 3px solid #E9AA09;
+}
+
+.textReview {
+    margin-left: 90px;
+    width: 595px;
+    height: 206px;
+    margin-top: 57px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    line-height: 168%;
+    color: rgba(255, 255, 255, 0.85);
+}
+
+.wrapperReview {
+    width: 1309px;
+    height: 456px;
+    left: 16%;
+    top: 197px;
+}
+
+.photo_1 {
+    left: 685px;
+    top: 60px;
+    background: linear-gradient(269.32deg, #08101B 0.44%, rgba(8, 16, 27, 0) 36.05%), #C4C4C4;
+    border-radius: 3px;
+}
+
+.photo_2, .photo_3, .photo_4 {
+    position: absolute;
+    left: 1078px;
+    border-radius: 3px;
+}
+
+.photo_2:hover, .photo_3:hover, .photo_4:hover, .photo_1:hover {
+    opacity: 0.4;
+    transition: 0.5s;
+}
+
+.photo_2 {
+    top: 30px;
+}
+
+.photo_3 {
+    top: 171px;
+}
+
+.photo_4 {
+    top: 311px;
+}
+
+.left_vector, .right_vector {
+    position: absolute;
+    top: 167px;
+}
+
+.right_vector {
+    right: 17px;
+}
+
+.right_vector:hover, .left_vector:hover {
+    width: 20px;
+}
+
+.left_vector {
+    left: 17px;
+}
+
+.name {
+    width: 195px;
+    height: 30px;
+    top: 379px;
+    left: 90px;
+}
+
+.relocation {
+    width: 195px;
+    height: 30px;
+    top: 379px;
+    left: 492px;
+}
+
+.name, .relocation {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 150%;
+    color: #FFF9F9;
+}

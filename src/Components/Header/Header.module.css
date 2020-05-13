@@ -1,0 +1,72 @@
+.header {
+    height: 110px;
+    width: 1920px;
+    background-color: rgba(2, 4, 18, 0.97);
+    position: fixed;
+    z-index: 100;
+}
+
+.description {
+    position: absolute;
+    top: 49px;
+    left: 16%;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    line-height: 115.19%;
+    letter-spacing: 0.025em;
+    color: #FFFFFF;
+}
+
+.event {
+    font-size: 20px;
+}
+
+.seminars {
+    font-size: 9px;
+}
+
+.event span {
+    color: darkorange;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    width: 36.77%;
+    left: 645px;
+    top: 50px;
+}
+
+.link {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    line-height: 25px;
+    color: rgba(255, 255, 255, 0.85);
+    text-decoration: none;
+}
+
+.link:hover {
+    transition: 0.2s;
+    text-decoration: underline;
+}
+
+.wrapperPhone {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 46px;
+    height: 46px;
+    top: 42px;
+    right: 315px;
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 100%;
+}
+
+.wrapperPhone:hover {
+    width: 55px;
+    height: 55px;
+    transition-duration: 0.5s;
+}

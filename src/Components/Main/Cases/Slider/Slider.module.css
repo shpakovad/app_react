@@ -1,0 +1,77 @@
+.slider_left, .slider_right, .photos {
+    position: absolute;
+    top: 296px;
+}
+
+.slider_left {
+    left: 22px;
+}
+
+.slider_right {
+    right: 16px;
+}
+
+.slider_left:hover, .slider_right:hover {
+    width: 20px;
+    transition: opacity 0.5s;
+}
+
+.photos {
+    width: 1132px;
+    height: 493px;
+    top: 52px;
+    left: 107px;
+}
+
+.photo_1, .photo_2, .photo_4, .photo_3 {
+    position: absolute;
+    border-radius: 3px;
+}
+
+.photo_1:hover, .photo_2:hover, .photo_4:hover, .photo_3:hover {
+    opacity: 0.4;
+    transition: 0.6s;
+}
+
+.photo_1 {
+    top: 0px;
+    left: 0px;
+}
+
+.photo_2 {
+    top: 0px;
+    right: 0px;
+}
+
+.photo_4 {
+    bottom: 0px;
+    right: 0px;
+    margin-left: 10px;
+}
+
+.photo_3 {
+    bottom: 0px;
+    right: 227px;;
+}
+
+.layer {
+    bottom: 0px;
+    left: 0px;
+    position: absolute;
+    width: 579px;
+    height: 112px;
+    background: rgba(0, 0, 0, 0.65);
+}
+
+.layer span {
+    display: block;
+    margin-top: 17px;
+    margin-left: 40px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 150%;
+    color: #FFFFFF;
+}
+

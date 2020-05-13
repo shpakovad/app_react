@@ -1,0 +1,125 @@
+.wrapperBenefits, .events, .sides, .titles, .titlesEvents {
+    position: absolute;
+}
+
+.wrapperBenefits {
+    width: 49.61%;
+    height: 40.077%;
+    left: 16%;
+    top: 54.52%;
+}
+
+.titleBenefits, .descriptionBenefits {
+    color: #FFFDFD;
+    margin-bottom: 25px;
+}
+
+.titleBenefits {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 120.68%;
+}
+
+.descriptionBenefits {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 120.68%;
+}
+
+.lineBenefits {
+    width: 100px;
+    height: 0px;
+    left: 16%;
+    border: 3px solid #E9AA09;
+    margin-bottom: 68px;
+}
+
+.experience {
+    width: 378px;
+    height: 96px;
+    left: 303px;
+    top: 899px;
+    margin-bottom: 55px;
+}
+
+.experience img, .questions img, .events img, .sides img {
+    margin-right: 17px;
+}
+
+.questions {
+    width: 398px;
+    height: 123px;
+    left: 302px;
+    top: 1050px;
+}
+
+.events {
+    width: 505px;
+    height: 112px;
+    right: 0px;
+    top: 34%;
+    margin-bottom: 58px;
+}
+
+.sides {
+    width: 508px;
+    height: 123px;
+    right: 0px;
+    top: 66%;
+}
+
+.titles, .titlesEvents {
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 120.68%;
+    color: #FFFFFF;
+}
+
+.titles {
+    margin-bottom: 18px;
+}
+
+.titlesEvents {
+    top: 6%;
+    margin-bottom: 16px;
+}
+
+.experienceDescription, .questionsDescription, .eventsDescription, .sidesDescription {
+    position: absolute;
+    font-family: 'Open Sans', sans-serif;
+    color: rgba(255, 255, 255, 0.85);
+}
+
+.experienceDescription {
+    width: 298px;
+    height: 52px;
+    top: 45%;
+    font-size: 17px;
+    line-height: 145%;
+}
+
+.questionsDescription {
+    top: 74%;
+    width: 282px;
+    font-size: 17px;
+    line-height: 150%;
+}
+
+.eventsDescription {
+    width: 357px;
+    font-size: 18px;
+    line-height: 145%;
+    top: 52%;
+}
+
+.sidesDescription {
+    font-size: 18px;
+    width: 315px;
+    height: 81px;
+    top: 30%;
+    line-height: 150%;
+}
+
+

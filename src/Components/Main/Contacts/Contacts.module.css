@@ -1,0 +1,103 @@
+.wrapperContacts {
+    position: absolute;
+    width: 100%;
+    height: 556px;
+    top: 3306px;
+    background: black;
+}
+
+.wrapperAddress {
+    position: absolute;
+    top: 56px;
+    left: 16%;
+    width: 433px;
+    height: 450px;
+    background: #08101B;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+}
+
+.firstSection {
+    width: 123px;
+    height: 24px;
+    position: absolute;
+    top: 40px;
+    left: 45px;
+}
+
+.eventBiz, .pro {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 115.19%;
+    letter-spacing: 0.025em;
+}
+
+.eventBiz {
+    color: #FFFFFF;
+}
+
+.pro {
+    color: darkorange;
+}
+
+.seminars {
+    display: block;
+    font-size: 9px;
+    color: #FFFFFF;
+    position: absolute;
+    bottom: -3px;
+}
+
+.marker {
+    margin-left: 50px;
+    margin-right: 17px;
+}
+
+.marker_1 {
+    position: absolute;
+    left: 50px;
+}
+
+.titles, .titles_1 {
+    width: 258px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: 0.015em;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 25px;
+    display: inline-block;
+}
+
+.titles_1 {
+    margin-left: 83px;
+    margin-bottom: 57px;
+}
+
+.contactsList {
+    position: absolute;
+    top: 105px;
+}
+
+.socialNetworks {
+    width: 149px;
+    height: 23px;
+    margin-left: 236px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon {
+    box-sizing: border-box;
+    transition: 500ms;
+    width: 23px;
+}
+
+.icon:hover {
+    transition: 0.2s ease-in-out 0s;
+}
+
+.icon img:hover {
+    width: 28px;
+}

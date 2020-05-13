@@ -9,7 +9,6 @@ function Login(props) {
         return <Redirect to={"/profile"}/>
     }
 
-
     let classForDataUser = props.error ? `${style.errorData}` : `${style.userData}`;
 
     const {username, onChangeLogin, password, onChangePassword, error} = props;
